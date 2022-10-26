@@ -69,7 +69,6 @@ class DroidTagInstance : ConstraintLayout {
 
         print("Initialized as $_parentContainer and $_fab_check")
 
-        this.addView(_parentContainer)
 
     }
 

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Libraries/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
         <entry key="..\:/Libraries/droidtaglibrary/src/main/res/drawable/ic_check.xml" value="0.1" />
         <entry key="..\:/Libraries/droidtaglibrary/src/main/res/drawable/ic_cross.xml" value="0.1" />
         <entry key="..\:/Libraries/droidtaglibrary/src/main/res/layout/item_tag.xml" value="0.264" />
