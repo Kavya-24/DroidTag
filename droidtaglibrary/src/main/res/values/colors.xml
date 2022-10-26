@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultTagItemColor">#E0F2F1</color>
+    <color name="defaultTagCrossTintColor">#D3d3d3</color>
+    <color name="defaultCheckBackgroundColor">#4285F4</color>
+    <color name="defaultCheckColor">#FFFFFF</color>
+</resources>
